@@ -26,4 +26,4 @@ Se abre una pestaña del navegador en el puerto 3000:
 ![localhost_3000_](https://user-images.githubusercontent.com/44064190/99903655-683cb600-2ca4-11eb-9bf7-2e8af8ea648d.png)
 
 ## Link de la aplicación en producción:
-https://clima-react-livid.vercel.app/
+https://elastic-wescoff-1abf6a.netlify.app/
